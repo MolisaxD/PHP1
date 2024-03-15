@@ -41,6 +41,7 @@
 
     <h1 class="h1-titulo"> Eventos </h1>
     <hr>
+    <br>
     <div class="row">
         <div class="col">
             <div class="card" style="width: 24rem;">
